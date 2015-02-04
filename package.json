@@ -1,0 +1,14 @@
+{
+  "name": "option3",
+  "version": "0.0.0",
+  "description": "",
+  "main": "montecarlo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushant Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
