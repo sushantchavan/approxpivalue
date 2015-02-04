@@ -1,7 +1,7 @@
 {
   "name": "option3",
   "version": "0.0.0",
-  "description": "",
+  "description": "Script to approximate value of pi using monte carlo method",
   "main": "montecarlo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
